@@ -1,5 +1,5 @@
 {
-    "name": "sparclex/nova-import-card",
+    "name": "digitalunityca/nova-import-card",
     "description": "A card which lets you batch import resources",
     "keywords": [
         "laravel",
